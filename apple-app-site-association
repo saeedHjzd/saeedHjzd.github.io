@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "P5RNLL72G8.com.IOT.DeviceFLO"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "P5RNLL72G8.com.IOT.DeviceFLO"
+        ],
+        "details": [
+            {
+                "appID": "P5RNLL72G8.com.IOT.DeviceFLO",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
